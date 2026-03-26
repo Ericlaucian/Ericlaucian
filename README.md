@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericlaucian&layout=compact&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric_laucian&layout=compact&theme=vision-friendly-dark)
 <!--
 **Ericlaucian/Ericlaucian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
